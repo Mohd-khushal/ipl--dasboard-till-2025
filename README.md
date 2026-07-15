@@ -229,4 +229,4 @@ Skills: SQL • Power BI • Python • Excel • Data Visualization
 
 GitHub: https://github.com/Mohd-khushal/ipl--dasboard-till-2025
 
-LinkedIn: nkedin.com/in/mohdkhushal/
+LinkedIn: https://www.linkedin.com/in/mohdkhushal/
