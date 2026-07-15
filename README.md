@@ -41,33 +41,31 @@ Power Query	Data Transformation
 DAX	KPIs & Dynamic Measures
 Excel / CSV	Dataset
 Git & GitHub	Version Control
-📂 Project Structure
-IPL-Match-Intelligence-Dashboard
+# 📂 Repository Structure
+
+```text
+IPL-Match-Intelligence-and-Strategic-Insights
 │
-├── data
+├── 📂 data
 │   ├── raw
 │   └── cleaned
 │
-├── sql
-│   ├── 01_Business_Overview.sql
-│   ├── 02_Toss_Analysis.sql
-│   ├── 03_Venue_Intelligence.sql
-│   ├── 04_Season_Intelligence.sql
-│   ├── 05_Performance_Analysis.sql
-│   └── 06_Playoff_Championship_Intelligence.sql
+├── 📂 notebook
+│   └── IPL_Match_Intelligence_&_Strategic_Insights_Dashboard.ipynb
 │
-├── dashboard
-│   ├── IPL.pbix
-│   └── Dashboard_Screenshots
+├── 📂 sql
+│   └── IPL_analysis.sql
 │
-├── insights
+├── 📂 dashboard
+│   ├── IPL Dashboard.pbix
+│   └── Dashboard Screenshot.png
+│
+├── 📂 insights
 │   └── Business_Insights.md
 │
-├── images
-│
 ├── README.md
-│
 └── LICENSE
+```
 📊 Dataset Information
 Feature	Value
 Seasons	2008–2025
